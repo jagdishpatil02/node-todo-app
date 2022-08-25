@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cleaning",
+    "completed": false,
+    "description": "cleaning of house"
+  },
+  {
+    "name": "Running",
+    "completed": false,
+    "description": "running 5km daily"
+  },
+  {
+    "name": "Reading",
+    "completed": false,
+    "description": "reading fav books"
+  },
+  {
+    "name": "Working",
+    "completed": false,
+    "description": "working on job"
+  }
+]
